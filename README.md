@@ -92,6 +92,7 @@ git clone https://github.com/ANonABento/htn_ros2_control_on_jetson_nano.git
 - **Sensors**: IMU, wheel encoders, camera module
 - **Power**: 12V LiPo battery system
 - **Chassis**: Custom 3D-printed modular design
+- All parts were forged during the event!!
 
 **AR Hardware:**
 - **Device**: Snap Spectacles (5th generation)
